@@ -3,7 +3,7 @@
 This repository contains materials taught as part of the Imperial College
 Graduate School Course of the above title.
 
-## About the course
+## About this course
 
 This course was developed by the Research Computing Service (RCS) of Imperial
 College, in particular by the Research Software Engineering (RSE) team. The RSE
